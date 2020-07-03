@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31da71a51c72a044c59f9ca470dd6a98",
+    "revision": "3dea741e5b4f30008c24229c5936b68f",
     "url": "/dualathalon/index.html"
   },
   {
-    "revision": "fd6140d8955e255f0dfd",
+    "revision": "ee2b796bfb97259db952",
     "url": "/dualathalon/static/css/main.eab24d3c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dualathalon/static/js/2.fb86d18c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd6140d8955e255f0dfd",
-    "url": "/dualathalon/static/js/main.814abedd.chunk.js"
+    "revision": "ee2b796bfb97259db952",
+    "url": "/dualathalon/static/js/main.bfad8eaa.chunk.js"
   },
   {
     "revision": "d80fdd6ee4e7b46d4aee",
