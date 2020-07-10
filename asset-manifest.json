@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dualathalon/static/css/main.eab24d3c.chunk.css",
-    "main.js": "/dualathalon/static/js/main.bfad8eaa.chunk.js",
-    "main.js.map": "/dualathalon/static/js/main.bfad8eaa.chunk.js.map",
+    "main.css": "/dualathalon/static/css/main.3bfb583c.chunk.css",
+    "main.js": "/dualathalon/static/js/main.7bd8eb5a.chunk.js",
+    "main.js.map": "/dualathalon/static/js/main.7bd8eb5a.chunk.js.map",
     "runtime-main.js": "/dualathalon/static/js/runtime-main.c7a6a33d.js",
     "runtime-main.js.map": "/dualathalon/static/js/runtime-main.c7a6a33d.js.map",
     "static/js/2.fb86d18c.chunk.js": "/dualathalon/static/js/2.fb86d18c.chunk.js",
     "static/js/2.fb86d18c.chunk.js.map": "/dualathalon/static/js/2.fb86d18c.chunk.js.map",
     "index.html": "/dualathalon/index.html",
-    "precache-manifest.70279b36a56335fcc04039a821d4d5fe.js": "/dualathalon/precache-manifest.70279b36a56335fcc04039a821d4d5fe.js",
+    "precache-manifest.e27a0baf0dd1b517d0bd080a2dd385e7.js": "/dualathalon/precache-manifest.e27a0baf0dd1b517d0bd080a2dd385e7.js",
     "service-worker.js": "/dualathalon/service-worker.js",
-    "static/css/main.eab24d3c.chunk.css.map": "/dualathalon/static/css/main.eab24d3c.chunk.css.map",
+    "static/css/main.3bfb583c.chunk.css.map": "/dualathalon/static/css/main.3bfb583c.chunk.css.map",
     "static/js/2.fb86d18c.chunk.js.LICENSE.txt": "/dualathalon/static/js/2.fb86d18c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c7a6a33d.js",
     "static/js/2.fb86d18c.chunk.js",
-    "static/css/main.eab24d3c.chunk.css",
-    "static/js/main.bfad8eaa.chunk.js"
+    "static/css/main.3bfb583c.chunk.css",
+    "static/js/main.7bd8eb5a.chunk.js"
   ]
 }
